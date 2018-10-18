@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "sistematodoweb2/build/precache-manifest.f942b81b357423987e8f2398d171ab1c.js"
+  "sistema/build/precache-manifest.3c57df8141e1438119d8dcb3e5732a01.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("sistematodoweb2/build/index.html", {
+workbox.routing.registerNavigationRoute("sistema/build/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

@@ -1,5 +1,4 @@
 .settings
 .classpath
 .project
-/apps/sistema
-/apps/sistematodoweb2/node_modules
+/apps/sistema/node_modules
