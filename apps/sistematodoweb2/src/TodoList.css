@@ -1,0 +1,42 @@
+input, li{
+    padding: 15px;
+    font-size: 20px;
+    border: 2px solid #FFFF;
+    width: 300px;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+li{
+    padding: 15px;
+    font-size: 20px;
+    background-color: #ffffff;
+    border-top: 2px solid #e6e6e6;
+    font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    width: 300px;
+}
+
+.destroy{
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 10px;
+    bottom: 0;
+    width: 40px;
+    height: 40px;
+    margin: auto 0;
+    margin-bottom: auto;
+    font-size: 30px;
+    color: #cc9a9a;
+    margin-bottom: 11px;
+    transition: color 0.2s ease-out;
+    display: block;
+}
+
+.destroy:hover {
+    color: #af5b5e;
+}

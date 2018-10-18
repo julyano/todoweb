@@ -1,0 +1,13 @@
+{
+  "main.css": "sistematodoweb2/build/static/css/main.c9bac46f.chunk.css",
+  "main.js": "sistematodoweb2/build/static/js/main.09c188e5.chunk.js",
+  "main.js.map": "sistematodoweb2/build/static/js/main.09c188e5.chunk.js.map",
+  "static/js/1.b54f5333.chunk.js": "sistematodoweb2/build/static/js/1.b54f5333.chunk.js",
+  "static/js/1.b54f5333.chunk.js.map": "sistematodoweb2/build/static/js/1.b54f5333.chunk.js.map",
+  "runtime~main.js": "sistematodoweb2/build/static/js/runtime~main.4b3bd79d.js",
+  "runtime~main.js.map": "sistematodoweb2/build/static/js/runtime~main.4b3bd79d.js.map",
+  "static/css/main.c9bac46f.chunk.css.map": "sistematodoweb2/build/static/css/main.c9bac46f.chunk.css.map",
+  "index.html": "sistematodoweb2/build/index.html",
+  "precache-manifest.f942b81b357423987e8f2398d171ab1c.js": "sistematodoweb2/build/precache-manifest.f942b81b357423987e8f2398d171ab1c.js",
+  "service-worker.js": "sistematodoweb2/build/service-worker.js"
+}
